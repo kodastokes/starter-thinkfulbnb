@@ -172,6 +172,7 @@ footer p {
     justify-content: center;
     align-items: center;
     padding: 15px 50px;
+    flex-wrap: wrap;
   }
 
   /* ------- Responsive Groups & Items ------ */
