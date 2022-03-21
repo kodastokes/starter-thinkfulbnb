@@ -106,6 +106,7 @@ form label {
 form div {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 form select,
@@ -163,6 +164,7 @@ footer p {
   form div {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
   }
 
   form button {
@@ -179,6 +181,7 @@ footer p {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
   }
 
   #ideas .group {
